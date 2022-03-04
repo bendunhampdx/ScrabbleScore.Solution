@@ -1,0 +1,15 @@
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.csproj.AssemblyReference.cache
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.GeneratedMSBuildEditorConfig.editorconfig
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.AssemblyInfoInputs.cache
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.AssemblyInfo.cs
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.csproj.CoreCompileInputs.cache
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/bin/Debug/net6.0/Score.deps.json
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/bin/Debug/net6.0/Score.dll
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/bin/Debug/net6.0/Score.pdb
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.dll
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/refint/Score.dll
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.pdb
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/ref/Score.dll
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/bin/Debug/net6.0/Score
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/bin/Debug/net6.0/Score.runtimeconfig.json
+/Users/benjamindunham/Desktop/C#/ScrabbleScore.Solution/Score/obj/Debug/net6.0/Score.genruntimeconfig.cache
